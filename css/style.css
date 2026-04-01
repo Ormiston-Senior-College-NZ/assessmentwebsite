@@ -1,0 +1,41 @@
+}
+
+.container {
+    width: 80%;
+    max-width: 1000px;
+    margin: 30px auto;
+}
+
+img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 8px;
+    display: block;
+    margin: 20px auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #4A2C2A;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #C9A86A;
+    color: #fff;
+}
+
+footer {
+    background-color: #4A2C2A;
+    color: #F2E9D8;
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+    border-radius: 8px;
+}
